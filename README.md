@@ -1,4 +1,4 @@
-<img src="https://i.pinimg.com/originals/af/07/ed/af07ed777318ec7c474804dbf7afdffb.gif">
+<img src="https://i.pinimg.com/originals/af/07/ed/af07ed777318ec7c474804dbf7afdffb.gif" width=100%>
 
 # Academic Portfolio - Dereck Misael Tandazo Brito
 **Data Science and Artificial Intelligence - UTMACH**  
