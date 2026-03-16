@@ -48,5 +48,12 @@ Data Science and Artificial Intelligence Career | 2025 - Present
 - **GitHub:** [@SrSherman333](https://github.com/SrSherman333)
 - **Correo:** misatandazobrito12@gmail.com
 
+---
+
+<picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/SrSherman333/SrSherman333/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/SrSherman333/SrSherman333/output/pacman-contribution-graph.svg">
+    <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/SrSherman333/SrSherman333/output/pacman-contribution-graph.svg">
+</picture>
 <div align="center">☘️👻</div>
 
