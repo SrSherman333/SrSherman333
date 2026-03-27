@@ -2,27 +2,34 @@
 
 # Academic Portfolio - Dereck Misael Tandazo Brito
 **Data Science and Artificial Intelligence - UTMACH**  
-> *First Semester*
+> *First Semester* :heavy_check_mark:
+
+> *Second Semester*
 
 ---
 
 ## Projects
 ### [DataGenius Toolkit](https://github.com/SrSherman333/datagenius-toolkit)
-**Suite of 10 scientific calculators with a modern graphical interface**
+**Suite of 10 scientific calculators with a modern graphical interface**  
 *Python • CustomTkinter • GUI/CLI • Modular Design*
 > A comprehensive project that demonstrates mastery of the fundamentals of programming and user interface creation. Now with calculation history, internationalization, and dark/light mode
 
 ### [Academic Path Recommender](https://github.com/SrSherman333/academic_path_recommender)
-**System for recommending and visualizing study habits**
-*Python • Matplotlib • Data Analysis • GUI/CLI*
+**System for recommending and visualizing study habits**  
+*Python • Matplotlib • Data Analysis • CustomTkinter • GUI/CLI • Modular Design*
 > Application that analyzes a matrix of study times and performs a survey with which a personalized learning path is generated that creates data visualizations in 2 graphs.
 
+### [MoneyWise](https://github.com/SrSherman333/money-wise) (In development)
+**Financial Management System**  
+*Python • Matplotlib • Pandas • Sqlite3 • Data Analysis • CustomTkinter • GUI/CLI • Modular Design*
+> This program records every transaction performed by the user, allowing them to be categorized into user-defined categories (such as Income or Expense). It will soon include a Dashboard tab displaying information for a specified date range, along with charts to illustrate the data. This program is a Single Window Interface (SWI) and saves all data, including both categories and transactions, to a database file.
 ---
 
 ## Technical Skills in Development
 **Languages:** Python  
+**Databases:** SQLite3  
 **Graphic interface:** CustomTkinter, Tkinter  
-**Visualization and Analysis:** Matplotlib (Basic)  
+**Visualization and Analysis:** Matplotlib (Basic), Pandas, NumPy  
 **Version Control:** Git, GitHub  
 **Methodologies:** Modular Programming, Project Documentation  
 
@@ -40,7 +47,7 @@
 Data Science and Artificial Intelligence Career | 2025 - Present
 
 - **First Semester (2025):** Fundamentals of Programming, Calculus I, Linear Algebra, Information Technologies and Systems, Academic Writing
-- **Second Semester (2026):** *(To begin)*
+- **Second Semester (2026):** Object-Oriented Programming (OOP), Calculus II, Operating Systems, Electrical Circuits, Human-Computer Interaction (HCI)
 
 ---
 
